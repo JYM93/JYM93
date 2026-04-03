@@ -5,8 +5,8 @@ I assist IT Network Engineers from other financial instituions (Not limited to) 
 Without our support financial instituions could have issues sending and receiving funds, instant funds, files, and other important metadata.
 
 I am in an apprenticeship for Penetration Testing (Including Blue teaming & Purple teaming) at the Federal Reserve.
-I'm proactively completing modules in HTB (Hack the Box) as well as attending virtual training sessions such as "OWASP Top 10 by FRB Partners: UltraViolet Cyber"
-I'm activily updating my LinkedIn and GitHub profile. Right now my projects are limited but within time you will see more activity and projects added to my profile. You can view my current projects here.
+I'm proactively completing modules in HTB (Hack the Box) as well as attending virtual training sessions such as "OWASP Top 10 by FRB Partners: UltraViolet Cyber".
+I'm actively updating my LinkedIn and GitHub profile. Right now my projects are limited but within time you will see more activity and projects added to my profile. You can view my current projects here.
 
 My future plans are to obtain a role in the cyber security field (red team, blue team, purple team) and apply my knowledge and expereince in the real world. If cyber security does not work out, persuing a Network engineering role or a cloud engineer role would be next.
 
