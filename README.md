@@ -18,6 +18,15 @@ I completed "The Manitou Incline" in Manitou Springs, Colorado consisting of 2,7
 I completed "The Koko Crater Trail" in Honolulu, Hawaii consisting of 1,048 steps with nearly a 50% incline near the top!<br>
 I love fishing!
 
+<br>
+<b>Certificates</b><br>
+<img width="340" height="340" alt="blob" src="https://github.com/user-attachments/assets/a6cd4fad-8c30-4f02-9864-ebd14efe92da" />
+<img width="340" height="340" alt="blob" src="https://github.com/user-attachments/assets/890622b9-e8bc-4798-81a8-0161d14560c1" />
+<img width="340" height="340" alt="blob" src="https://github.com/user-attachments/assets/5a070ec2-2958-4e03-a706-b86897993bed" />
+<img width="340" height="340" alt="blob" src="https://github.com/user-attachments/assets/0e6465b5-41ca-48a6-be8d-2fea94fb08bd" />
+<img width="340" height="340" alt="CompTIA_CSAP" src="https://github.com/user-attachments/assets/54795945-75ef-4862-b0e1-f0c42640e330" />
+<img width="340" height="340" alt="image" src="https://github.com/user-attachments/assets/e5d40640-fc40-4ab7-820a-e5af26a17229" />
+
 
 <!--
 **JYM93/JYM93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
