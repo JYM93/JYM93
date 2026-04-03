@@ -12,11 +12,11 @@ I'm activily updating my LinkedIn and GitHub profile. Right now my projects are 
 
 My future plans are to obtain a role in the cyber security field (red team, blue team, purple team) and apply my knowledge and expereince in the real world. If cyber security does not work out, persuing a Network engineering role or a cloud engineer role would be next.
 
-Fun Facts:
-I love the outdoors! <br>
-Completed "The Manitou Incline" in Manitou Springs, Colorado consisting of 2,768 steps over 1 mile with a 2,000-foot elevation gain and a 2+ mile hike back! <br>
-Completed "The Koko Crater Trail" in Honolulu, Hawaii consisting of 1,048 steps with nearly a 50% incline near the top! <br>
-I love fishing
+Fun Facts:<br>
+I love the outdoors!<br>
+I completed "The Manitou Incline" in Manitou Springs, Colorado consisting of 2,768 steps over 1 mile with a 2,000-foot elevation gain and a 2+ mile hike back!<br>
+I completed "The Koko Crater Trail" in Honolulu, Hawaii consisting of 1,048 steps with nearly a 50% incline near the top!<br>
+I love fishing!
 
 
 <!--
