@@ -20,12 +20,12 @@ I love fishing!
 
 <br>
 <b>Certificates</b><br>
-<img width="340" height="340" alt="blob" src="https://github.com/user-attachments/assets/fbc75405-edef-46ae-92b7-c9de206d5d85" />
-<img width="340" height="340" alt="blob" src="https://github.com/user-attachments/assets/8b6f532f-827e-4c97-8b21-b5e6c225e139" />
-<img width="340" height="340" alt="blob" src="https://github.com/user-attachments/assets/852f84a8-4f44-46b2-b7ba-e38df02da0c1" />
-<img width="340" height="340" alt="blob" src="https://github.com/user-attachments/assets/c193ce10-1e09-4849-96b8-aa93585aa9df" />
-<img width="340" height="340" alt="CompTIA_CSAP" src="https://github.com/user-attachments/assets/4a285ec8-00a4-4a7c-8103-9ac2c633fb49" />
-<img width="340" height="340" alt="image" src="https://github.com/user-attachments/assets/4d6baeb2-4c28-4e7a-835e-884d6f8037e4" />
+<img width="200" height="200" alt="blob" src="https://github.com/user-attachments/assets/fbc75405-edef-46ae-92b7-c9de206d5d85" />
+<img width="200" height="200" alt="blob" src="https://github.com/user-attachments/assets/8b6f532f-827e-4c97-8b21-b5e6c225e139" />
+<img width="200" height="200" alt="blob" src="https://github.com/user-attachments/assets/852f84a8-4f44-46b2-b7ba-e38df02da0c1" />
+<img width="200" height="200" alt="blob" src="https://github.com/user-attachments/assets/c193ce10-1e09-4849-96b8-aa93585aa9df" />
+<img width="200" height="200" alt="CompTIA_CSAP" src="https://github.com/user-attachments/assets/4a285ec8-00a4-4a7c-8103-9ac2c633fb49" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/4d6baeb2-4c28-4e7a-835e-884d6f8037e4" />
 
 
 
